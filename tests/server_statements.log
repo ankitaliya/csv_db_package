@@ -1,0 +1,110 @@
+2022-01-04 12:41:55,775:DEBUG:# _do_auth(): user: 
+2022-01-04 12:41:55,775:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:41:55,776:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:41:55,785:DEBUG:# request: b'\x00' size: 1
+2022-01-04 12:41:55,785:DEBUG:# server response packet: bytearray(b"C\x00\x00\x05\xff\x15\x04#28000Access denied for user \'\'@\'localhost\' (using password: NO)")
+2022-01-04 12:46:42,600:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:42,600:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:42,601:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:46:42,801:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:42,801:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:42,802:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:46:42,865:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:42,865:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:42,866:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:46:42,919:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:42,919:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:42,920:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:46:42,964:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:42,964:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:42,964:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:46:43,011:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:43,011:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:43,011:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:46:43,076:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:43,076:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:43,076:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:46:43,130:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:43,130:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:43,131:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:46:43,204:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:43,206:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:43,206:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:46:43,211:ERROR:IntegrityError: 1062 (23000): Duplicate entry '15' for key 'test_table.PRIMARY'
+2022-01-04 12:46:43,264:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:43,264:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:43,266:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:46:43,269:ERROR:ProgrammingError: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''key': 78}, 'Brown')' at line 1
+2022-01-04 12:46:43,329:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:43,330:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:43,330:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:46:43,333:ERROR:ProgrammingError: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[14], 'BOS', 'Boston', 'West', 'Atlantic', 'Peter York', 'York')' at line 1
+2022-01-04 12:46:43,392:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:43,393:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:43,393:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:46:43,395:ERROR:ProgrammingError: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''hello': 'fyt'}, 678, 'buy', 'A', 34, 34, 'TOR', 'Torronto', 'East', 'west', 'iu' at line 1
+2022-01-04 12:46:43,457:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:43,457:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:43,458:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:46:43,532:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:43,532:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:43,532:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:46:43,618:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:43,618:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:43,619:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:46:43,674:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:43,674:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:43,675:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:46:43,677:ERROR:ProgrammingError: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2022-01-04 12:46:43,740:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:43,740:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:43,740:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:46:43,744:ERROR:ProgrammingError: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[56]' at line 1
+2022-01-04 12:46:43,793:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:43,793:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:43,794:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:46:43,796:ERROR:ProgrammingError: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''key': 'value'}' at line 1
+2022-01-04 12:46:43,869:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:43,870:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:43,870:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:46:43,962:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:43,962:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:43,962:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:46:44,015:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:44,015:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:44,016:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:46:44,056:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:44,057:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:44,057:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:46:44,060:ERROR:ProgrammingError: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key': 78}',name='Brown' WHERE p_id=6' at line 1
+2022-01-04 12:46:44,114:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:44,114:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:44,114:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:46:44,118:ERROR:DatabaseError: 1366 (HY000): Incorrect integer value: '[14]' for column 'id' at row 1
+2022-01-04 12:46:44,177:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:44,177:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:44,178:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:46:44,179:ERROR:ProgrammingError: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'hello': 'fyt'}',height_inches='678',last_name='buy',position='A',weight_pounds='' at line 1
+2022-01-04 12:46:44,223:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:44,223:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:44,223:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:46:44,304:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:44,305:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:44,305:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:46:44,323:ERROR:ProgrammingError: 1146 (42S02): Table 'testdb.data_table' doesn't exist
+2022-01-04 12:46:44,385:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:44,386:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:44,386:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:46:44,391:ERROR:ProgrammingError: 1146 (42S02): Table 'testdb.768' doesn't exist
+2022-01-04 12:46:44,438:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:44,438:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:44,438:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:46:44,441:ERROR:ProgrammingError: 1049 (42000): Unknown database 'data_base'
+2022-01-04 12:46:44,479:DEBUG:# _do_auth(): user: root
+2022-01-04 12:46:44,479:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:46:44,479:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:51:43,102:DEBUG:# _do_auth(): user: 
+2022-01-04 12:51:43,102:DEBUG:# _do_auth(): self._auth_plugin: 
+2022-01-04 12:51:43,103:DEBUG:new_auth_plugin: caching_sha2_password
+2022-01-04 12:51:43,106:DEBUG:# request: b'\x00' size: 1
+2022-01-04 12:51:43,110:DEBUG:# server response packet: bytearray(b"C\x00\x00\x05\xff\x15\x04#28000Access denied for user \'\'@\'localhost\' (using password: NO)")
